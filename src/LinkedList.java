@@ -43,6 +43,6 @@ public class LinkedList {
         list.next.next = new Node("Banana");
         list.next.next.next = new Node("Carrot");
         list.next.next.next.next = new Node("Beet");
-        System.out.println(listLength("my Mailee"+list));
+        System.out.println(listLength("This is master"+list));
     }
 }
